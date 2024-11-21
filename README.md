@@ -1,11 +1,11 @@
 # HIDGN
-HIDGN is proposed, 
-a novel DTI prediction model that enhances homogeneous information with dual encoder graph neural network. 
-The graph convolutional encoder is employed to extract deeper feature representations,
-while the homogeneous information aggregation encoder specifically focuses on the connectivity between drugs or targets within the graph.
+HIDGN is an innovative model designed for drug-target interaction prediction, 
+leveraging a dual-encoder graph neural network to enhance the representation of homogeneous information. 
+The model employs a graph convolutional encoder to extract deep relational features between drugs and targets,
+and integrating a homogeneous information aggregation encoder to uncover indirect associations among drugs or targets. 
 
 # Code
-The source code and data for HIDGN are available for academic purposes at https://github.com/ningq669/HIDGN/.
+The HIDGN source code is accessible for academic use at https://github.com/ningq669/HIDGN/.
 
 # Datasets
 ### KIBA
